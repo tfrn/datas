@@ -9,13 +9,19 @@
         "id": 2,
         "status": "!",
         "tarih": "2024-08-11",
-        "mesaj": "tarla 1-2-3-4 ot kesilecek."
+        "mesaj": "tarla 1-2-4 ot kesilecek."
     },
     {
         "id": 3,
         "status": "!",
         "tarih": "2024-08-11",
         "mesaj": "tarla 3-4 sulanacak."
+    },
+    {
+        "id": 4,
+        "status": "!",
+        "tarih": "2024-08-18",
+        "mesaj": "tarla 4 ot kesildi."
     }
 ]
   
