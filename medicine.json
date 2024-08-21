@@ -1,0 +1,39 @@
+[
+    {
+      "id": 1,
+      "ilac": "intresect",
+      "tür": "zeytin",
+      "marka": "heros",
+      "tip": "sıvı",
+      "kalite": "iyi",
+      "miktar": "750ml"
+    },
+    {
+        "id": 2,
+        "ilac": "fungusit",
+        "tür": "zeytin",
+        "marka": "fungosa",
+        "tip": "toz",
+        "kalite": "orta",
+        "miktar": "1lt"
+    },
+    {
+        "id": 3,
+        "ilac": "b. gübre",
+        "tür": "genel",
+        "marka": "gübretaş",
+        "tip": "granül",
+        "kalite": "iyi",
+        "miktar": "10lt"
+    },
+    {
+        "id": 4,
+        "ilac": "b. gübre",
+        "tür": "genel",
+        "marka": "gübretaş",
+        "tip": "granül",
+        "kalite": "iyi",
+        "miktar": "10lt"
+    }
+]
+  

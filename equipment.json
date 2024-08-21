@@ -1,0 +1,43 @@
+[
+    {
+      "id": 1,
+      "arac": "Toyota Corolla",
+      "marka": "Toyota",
+      "model": "Corolla",
+      "yil": 2021,
+      "kondisyon": "Yeni"
+    },
+    {
+      "id": 2,
+      "arac": "Honda Civic",
+      "marka": "Honda",
+      "model": "Civic",
+      "yil": 2019,
+      "kondisyon": "İyi"
+    },
+    {
+      "id": 3,
+      "arac": "Ford Focus",
+      "marka": "Ford",
+      "model": "Focus",
+      "yil": 2018,
+      "kondisyon": "Orta"
+    },
+    {
+      "id": 4,
+      "arac": "BMW 3 Series",
+      "marka": "BMW",
+      "model": "3 Series",
+      "yil": 2020,
+      "kondisyon": "Yeni"
+    },
+    {
+      "id": 5,
+      "arac": "Audi A4",
+      "marka": "Audi",
+      "model": "A4",
+      "yil": 2017,
+      "kondisyon": "İyi"
+    }
+  ]
+  

@@ -1,0 +1,35 @@
+[
+    {
+        "name":"tarla 1",
+        "yuzolcumu": "3 dönüm",
+        "plantasyon": "ağaç",
+        "dagilim": "80 adet, 10 yaşında zeytin",
+        "sonislem": "11/08/24 -- ilaçlama",
+        "durum": "otlanma var"
+    },
+    {
+        "name":"tarla 2",
+        "yuzolcumu": "7 dönüm",
+        "plantasyon": "ağaç",
+        "dagilim": "140 adet, 5 yaşında zeytin",
+        "sonislem": "11/08/24 -- ilaçlama",
+        "durum": "otlanma var"
+    },
+    {
+        "name":"tarla 3",
+        "yuzolcumu": "0.8 dönüm",
+        "plantasyon": "ağaç",
+        "dagilim": "20 adet 2 yaşında harnup",
+        "sonislem": "yok",
+        "durum": "otlanma var"
+    },
+    {
+        "name":"tarla 4",
+        "yuzolcumu": "0.8 dönüm",
+        "plantasyon": "ağaç",
+        "dagilim": "15 adet, 1 yaşında zeytin, 10 adet 1 yaşında incir",
+        "sonislem": "yok",
+        "durum": "otlanma var"
+    }
+
+]
