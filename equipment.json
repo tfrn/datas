@@ -1,43 +1,51 @@
 [
     {
       "id": 1,
-      "arac": "Toyota Corolla",
-      "marka": "Toyota",
-      "model": "Corolla",
-      "yil": 2021,
-      "kondisyon": "Yeni"
+      "arac": "traktor",
+      "marka": "ford",
+      "model": "405",
+      "yil": 1985,
+      "kondisyon": "çalışır"
     },
     {
       "id": 2,
-      "arac": "Honda Civic",
-      "marka": "Honda",
-      "model": "Civic",
-      "yil": 2019,
-      "kondisyon": "İyi"
+      "arac": "b. motoru",
+      "marka": "kağan",
+      "model": "xxx",
+      "yil": 2010,
+      "kondisyon": "bozuk"
     },
     {
       "id": 3,
-      "arac": "Ford Focus",
-      "marka": "Ford",
-      "model": "Focus",
+      "arac": "ot motoru",
+      "marka": "kağan",
+      "model": "focus",
       "yil": 2018,
       "kondisyon": "Orta"
     },
     {
       "id": 4,
-      "arac": "BMW 3 Series",
-      "marka": "BMW",
-      "model": "3 Series",
-      "yil": 2020,
-      "kondisyon": "Yeni"
+      "arac": "b. z. motoru",
+      "marka": "kağan",
+      "model": "bum",
+      "yil": 2019,
+      "kondisyon": "çalışır"
     },
     {
       "id": 5,
-      "arac": "Audi A4",
-      "marka": "Audi",
-      "model": "A4",
-      "yil": 2017,
+      "arac": "ş. z. motoru",
+      "marka": "xxx",
+      "model": "xxx",
+      "yil": 2020,
       "kondisyon": "İyi"
+    },
+    {
+      "id": 6,
+      "arac": "gaster",
+      "marka": "xxx",
+      "model": "xxx",
+      "yil": 2000,
+      "kondisyon": "bozuk-çalışır"
     }
   ]
   
