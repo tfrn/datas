@@ -5,7 +5,7 @@
         "plantasyon": "ağaç",
         "dagilim": "80 adet, 10 yaşında zeytin",
         "sonislem": "11/08/24 -- ilaçlama",
-        "durum": "otlanma var"
+        "durum": "temiz"
     },
     {
         "name":"tarla 2",
@@ -13,7 +13,7 @@
         "plantasyon": "ağaç",
         "dagilim": "140 adet, 5 yaşında zeytin",
         "sonislem": "11/08/24 -- ilaçlama",
-        "durum": "otlanma var"
+        "durum": "sürüldü"
     },
     {
         "name":"tarla 3",
@@ -21,7 +21,7 @@
         "plantasyon": "ağaç",
         "dagilim": "20 adet 2 yaşında harnup",
         "sonislem": "yok",
-        "durum": "otlanma var"
+        "durum": "sürüldü"
     },
     {
         "name":"tarla 4",
@@ -29,7 +29,7 @@
         "plantasyon": "ağaç",
         "dagilim": "15 adet, 1 yaşında zeytin, 10 adet 1 yaşında incir",
         "sonislem": "yok",
-        "durum": "temiz"
+        "durum": "sülük var"
     }
 
 ]
