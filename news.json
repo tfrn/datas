@@ -7,27 +7,45 @@
     },
     {
         "id": 2,
-        "status": "!",
-        "tarih": "2024-08-11",
-        "mesaj": "tarla 1-2-4 ot kesilecek."
-    },
-    {
-        "id": 3,
-        "status": "!",
-        "tarih": "2024-08-11",
-        "mesaj": "tarla 3-4 sulanacak."
-    },
-    {
-        "id": 4,
         "status": ".",
         "tarih": "2024-08-18",
         "mesaj": "tarla 4 ot kesildi."
     },
     {
-        "id": 5,
+        "id": 3,
         "status": ".",
         "tarih": "2024-09-15",
         "mesaj": "tarla 1-2 sürüldü."
-    }
+    },
+    {
+        "id": 4,
+        "status": ".",
+        "tarih": "2024-10-20",
+        "mesaj": "tarla 2 zeytin hasadı yapıldı. 290kg zeytin toplandı, 60kg yağ alındı."
+    },
+    {
+        "id": 5,
+        "status": ".",
+        "tarih": "2024-10-28",
+        "mesaj": "tarla 1 zeytin hasadı yapıldı. 310kg zeytin toplandı, 70kg yağ alındı."
+    },
+   {
+        "id": 6,
+        "status": ".",
+        "tarih": "2024-11-03",
+        "mesaj": "tarla 1 zeytin hasadı yapıldı. 600kg zeytin toplandı, 170kg yağ alındı."
+    },
+    {
+        "id": 7,
+        "status": ".",
+        "tarih": "2024-11-09",
+        "mesaj": "tarla 1 budama gerçekleştirildi."
+    },
+    {
+        "id": 8,
+        "status": ".",
+        "tarih": "2024-11-10",
+        "mesaj": "tarla 1 budama gerçekleştirildi, gasterle bakır uygulandı."
+    },
 ]
   
