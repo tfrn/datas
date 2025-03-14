@@ -46,6 +46,30 @@
         "status": ".",
         "tarih": "2024-11-10",
         "mesaj": "tarla 1 budama gerçekleştirildi, gasterle bakır uygulandı."
+    },
+    {
+        "id": 9,
+        "status": ".",
+        "tarih": "2024-11-17",
+        "mesaj": "tarla 1-2 gasterle bakır-bordo uygulandı."
+    },
+    {
+        "id": 10,
+        "status": ".",
+        "tarih": "2025-02-16",
+        "mesaj": "tarla 5'te 70 zeytin fidanı dikimi yapıldı."
+    },
+    {
+        "id": 11,
+        "status": ".",
+        "tarih": "2025-03-02",
+        "mesaj": "tarla 4'te 7 incir, dut dikimi yapıldı."
+    },
+    {
+        "id": 12,
+        "status": ".",
+        "tarih": "2025-03-09",
+        "mesaj": "tarla 5'te 25 zeytin fidanı dikimi yapıldı."
     }
 ]
   

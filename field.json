@@ -19,7 +19,7 @@
         "name":"tarla 3",
         "yuzolcumu": "0.8 dönüm",
         "plantasyon": "ağaç",
-        "dagilim": "20 adet 2 yaşında harnup",
+        "dagilim": "10 adet 2 yaşında harnup, çeşitli meyveler",
         "sonislem": "yok",
         "durum": "sürüldü"
     },
@@ -27,9 +27,17 @@
         "name":"tarla 4",
         "yuzolcumu": "0.8 dönüm",
         "plantasyon": "ağaç",
-        "dagilim": "15 adet, 1 yaşında zeytin, 10 adet 1 yaşında incir",
+        "dagilim": "15 adet, 2 yaşında zeytin, 10 adet 2 yaşında incir",
         "sonislem": "yok",
         "durum": "sülük var"
+    },
+    {
+        "name":"tarla 5",
+        "yuzolcumu": "3.2 dönüm",
+        "plantasyon": "ağaç",
+        "dagilim": "95 adet, 1 yaşında zeytin",
+        "sonislem": "yok",
+        "durum": "kurak"
     }
 
 ]
